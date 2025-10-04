@@ -1,9 +1,7 @@
-# esp32-s2-mini
-'''
-// ESP32-S2 Mini Board
-// Test Led, Button and UART 1, 2.
+# ESP32-S2 Mini Board
+```
+Test Led, Button and UART 1, 2.
 
-/*
 === Board GPIO ===
 	GPIO15 - LED (Blue)
 	GPIO0  - Button PROG (BOOT)
@@ -25,4 +23,4 @@
 
 RAM:   [=         ]   8.1% (used 26644 bytes from 327680 bytes)
 Flash: [==        ]  21.2% (used 277802 bytes from 1310720 bytes)
-'''
+```
